@@ -31,11 +31,11 @@ jobs:
       
             datasource:
               driver-class-name: com.mysql.cj.jdbc.Driver
-              url:  jdbc:mysql://${{ secrets.VM_PUBLIC_IP }}:3306/${{ secret.DATABASE_NAME }}
-              username: ${{ secret.DATABASE_USERNAME }}
-              password: ${{ secret.DATABASE_PASSWORD }}
+              url:  jdbc:mysql://${{ secrets.VM_PUBLIC_IP }}:3306/${{ secrets.DATABASE_NAME }}
+              username: ${{ secrets.DATABASE_USERNAME }}
+              password: ${{ secrets.DATABASE_PASSWORD }}
       
           jwt:
-            secret: ${{ secret.JWT_TOKEN }}
+            secret: ${{ secrets.JWT_TOKEN }}
           EOL
           cat back/src/main/resources/application-secret.yml
