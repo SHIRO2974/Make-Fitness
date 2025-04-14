@@ -54,7 +54,9 @@ jobs:
 
       - name: Build-And-Push-React-App
         run: |
+          ls -a
           cd front
+          ls -a
           docker build -t ${{ secrets.DOCKER_USERNAME }}/make-fitness-react-app .
           docker push ${{ secrets.DOCKER_USERNAME }}/make-fitness-react-app:latest
           
