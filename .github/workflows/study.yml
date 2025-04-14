@@ -76,7 +76,7 @@ jobs:
           script: |
             sudo docker pull ${{ secrets.DOCKER_USERNAME }}/make-fitness-react-app:latest
             sudo docker pull ${{ secrets.DOCKER_USERNAME }}/make-fitness-spring-app:latest
-            cd /home/ubuntu//project
+            cd /home/ubuntu/project
             sudo docker-compose -f project-compose.yml down
             sudo docker-compose -f project-compose.yml up -d
       
