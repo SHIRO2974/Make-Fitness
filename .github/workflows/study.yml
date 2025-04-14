@@ -13,6 +13,29 @@ jobs:
       - name: create-vite-env
         run: |
           chmod 777 -R front
-          cd front
-          echo "VITE_KAKAO_API_KEY=${{ secrets.VITE_KAKAO_API_KEY }}" > ./.env
-          cat .env
+          cat <<EOL > front/.env 
+          VITE_KAKAO_API_KEY=${{ secrets.VITE_KAKAO_API_KEY }}
+          VITE_PORTONE_API_KEY=${{ secrets.VITE_PORTONE_API_KEY }}
+          VITE_PORTONE_STOREID=${{ secrets.VITE_PORTONE_STOREID }}
+          EOL
+          cat front/.env
+
+      - name: create-application-env
+        run: |
+          chmod 777 -R back
+          cat <<EOL > back/src/main/resources/application-secret.yml
+          spring:
+            config:
+              activate:
+                on-profile: secret
+      
+            datasource:
+              driver-class-name: com.mysql.cj.jdbc.Driver
+              url:  jdbc:mysql://${{ secrets.VM_PUBLIC_IP }}:3306/${{ secret.DATABASE_NAME }}
+              username: ${{ secret.DATABASE_USERNAME }}
+              password: ${{ secret.DATABASE_PASSWORD }}
+      
+          jwt:
+            secret: ${{ secret.JWT_TOKEN }}
+          EOL
+          cat back/src/main/resources/application-secret.yml
