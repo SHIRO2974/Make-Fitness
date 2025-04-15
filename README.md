@@ -156,7 +156,7 @@ Swagger + GitHub Actions
 🔗 배포 주소: https://makefitness.store/
 📄 노션 프로젝트 문서: https://lake-guanaco-5fe.notion.site/1af2ef25054380d5bdf8f184138b735e
 
-💬 프로젝트 회고
+### 💬 프로젝트 회고
 “끝까지 해보자는 마음 하나”
 이번 프로젝트를 하면서 느낀 건 단 하나였습니다.
 끝까지 해보자, 버텨보자, 그러면 결국 만들어진다.
