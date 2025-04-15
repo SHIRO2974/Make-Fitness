@@ -94,11 +94,23 @@ Customer
 ID: wogus2974
 pw: wogus2987!
 
-📸 주요 화면 예시
-로그인 | 수업 캘린더 | 예약 내역 | 결제 페이지
+## 🖼️ 주요 화면 예시
 
-![로그인 화면](./screenshots/login.png)
+### 🔐 로그인 화면
+![로그인](./public/screenshots/로그인.png)
 
+### 📋 수업 등록 화면
+![수업등록](./public/screenshots/수업등록_MN.png)
+
+### 📅 수업 예약 화면
+![예약](./public/screenshots/수업예약_CU.png)
+
+### 🔍 수업 예약 조회
+![조회](./public/screenshots/수업예약조회_CU.png)
+
+### 👤 회원가입 / 회원 관리
+![회원가입](./public/screenshots/회원가입.png)
+![회원관리](./public/screenshots/회원관리_MN.png)
 
 
 
