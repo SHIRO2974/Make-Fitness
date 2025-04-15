@@ -18,75 +18,77 @@
 ## 🧩 핵심 기능
 
 ### 👤 회원 (Customer)
-- JWT 기반 로그인 / 인증 처리
-- 보유한 프로모션(이용권) 목록 확인
-- 캘린더 기반 수업 예약 및 실시간 반영
-- 출석된 수업 내역 히스토리 확인
+- JWT 기반 로그인 / 인증 처리  
+- 보유한 프로모션(이용권) 목록 확인  
+- 캘린더 기반 수업 예약 및 실시간 반영  
+- 출석된 수업 내역 히스토리 확인  
 
 ### 🏋️ 트레이너 (Trainer)
-- 다중 시간대 수업 등록 / 조회 / 삭제
-- 회원별 예약 현황 조회
-- 수업 자동 출석 처리 및 이력 관리
+- 다중 시간대 수업 등록 / 조회 / 삭제  
+- 회원별 예약 현황 조회  
+- 수업 자동 출석 처리 및 이력 관리  
 
 ### 💳 결제 시스템
-- **PortOne** 연동 (KakaoPay, 신용카드 등 지원)
-- 프로모션(이용권) 결제 → 수업 예약 자격 자동 부여
-- 수업 예약 시 남은 횟수 자동 차감, 취소 시 복구
+- **PortOne** 연동 (KakaoPay, 신용카드 등 지원)  
+- 프로모션(이용권) 결제 → 수업 예약 자격 자동 부여  
+- 수업 예약 시 남은 횟수 자동 차감, 취소 시 복구  
 
 ---
 
 ## 🛠 기술 스택
 
-| 영역 | 기술 |
-|------|------|
-| **Frontend** | React, React Router, Emotion, Axios |
+| 영역        | 기술                                     |
+|-------------|------------------------------------------|
+| **Frontend**| React, React Router, Emotion, Axios      |
 | **Backend** | Spring Boot 3.4.3, Spring Security, MyBatis |
-| **Database** | MySQL |
-| **CI/CD** | GitHub Actions, NGINX, EC2 |
-| **인증** | JWT (Spring Security 연동) |
-| **결제** | PortOne Browser SDK |
-| **문서화** | Swagger 자동화 문서 (SpringDoc 기반) |
+| **Database**| MySQL                                    |
+| **CI/CD**   | GitHub Actions, NGINX, EC2               |
+| **인증**    | JWT (Spring Security 연동)               |
+| **결제**    | PortOne Browser SDK                      |
+| **문서화**  | Swagger 자동화 문서 (SpringDoc 기반)     |
 
 ---
 
 ## 🧱 아키텍처 및 구조
-[React] ←→ [Spring Boot + JWT + Swagger] ←→ [MySQL] ↑ ↓ [PortOne SDK] [GitHub Actions + EC2]
+
+[React] ↑ [PortOne SDK] ←→ [Spring Boot + JWT + Swagger] ←→ [MySQL] ↓ [GitHub Actions + EC2]
 
 ### 📁 디렉토리 구조
 make-fitness/ ┣ back/ ┃ ┣ controller/ ┃ ┣ service/ ┃ ┣ repository/ ┃ ┣ mapper/ ┃ ┣ dto/ ┃ ┗ entity/ ┗ front/ ┣ pages/ ┣ components/ ┣ apis/ ┣ router/ ┗ context/
 
 
-### 🖥 실행 방법
-# 백엔드 실행
+## 🖥 실행 방법
+
+### 백엔드 실행
 ./gradlew bootRun
 
-# 프론트엔드 실행
+### 프론트엔드 실행
 npm install
 npm run dev
 
+### 🧪 테스트 계정
 
-🧪 테스트 계정
-구분	        ID	        PW
-Admin	        admin1234	admin1234!
-Manager	        park1234	dong1234!
-Customer	wogus2974	wogus2987!
+| 구분     | ID         | PW         |
+|----------|------------|------------|
+| Admin    | admin1234  | admin1234! |
+| Manager  | park1234   | dong1234!  |
+| Customer | wogus2974  | wogus2987! |
 
-👨‍💻 개발자 정보
-이름	                역할
-이재현 (Lee Jaehyun)	전체 설계 및 개발 (풀스택)
+## 👨‍💻 개발자 정보
 
-담당 범위
+| 이름               | 역할                     |
+|--------------------|--------------------------|
+| 이재현 (Lee Jaehyun) | 전체 설계 및 개발 (풀스택) |
 
-  DB 모델링 및 관계 설계
+### 🛠 담당 범위
 
-  Figma를 통한 UX 흐름 구성
-
-  Spring Boot 기반 API 구현
-
-  React UI / 캘린더 컴포넌트 개발
-
-  CI/CD 자동화 및 배포 구성
+- DB 모델링 및 관계 설계  
+- Figma를 통한 UX 흐름 구성  
+- Spring Boot 기반 API 구현  
+- React UI / 캘린더 컴포넌트 개발  
+- CI/CD 자동화 및 배포 구성
 
 🔗 링크
 🔗 배포 주소: https://makefitness.store/
 📄 노션 프로젝트 문서: https://lake-guanaco-5fe.notion.site/1af2ef25054380d5bdf8f184138b735e
+
