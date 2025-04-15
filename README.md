@@ -96,21 +96,21 @@ pw: wogus2987!
 
 ## 🖼️ 주요 화면 예시
 
-### 🔐 로그인 화면
+### 🔐 로그인
 ![Login](./screenshots/login.png)
 
-### 📝 수업 등록 화면
+### 📝 수업 등록
 ![Class Register](./screenshots/ClassRegister_MN.png)
 
-### 📅 수업 예약 화면
+### 📅 수업 예약
 ![Reservations](./screenshots/ClassReservations_CU.png)
 
 ### 🔍 예약 조회
 ![Reservation History](./screenshots/Reservation_CU.png)
 
 ### 👤 회원가입 / 회원 관리
-![Sign Up](./screenshots/SingnUp.png)
-![Member Manage](./screenshots/MemberManabement_AD.png)
+![Sign Up](./screenshots/SignUp.png)
+![Member Manage](./screenshots/MemberManagement_AD.png)
 
 ### 💳 매출 관리
 ![Sales](./screenshots/SalesManagement_AD.png)
@@ -120,9 +120,6 @@ pw: wogus2987!
 
 ### 🗺️ 지도
 ![Map](./screenshots/Map_AN.png)
-
-### 🧑‍💻 Signup
-![Signup](./screenshots/SignUp.png)
 
 
 👨‍💻 담당 역할
