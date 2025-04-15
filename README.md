@@ -94,6 +94,12 @@ Customer
 ID: wogus2974
 pw: wogus2987!
 
+📸 주요 화면 예시
+로그인 | 수업 캘린더 | 예약 내역 | 결제 페이지
+
+![Uploading image.png…]()
+
+
 👨‍💻 담당 역할
 이름	 역할
 이재현	 풀스택 개발 전반
