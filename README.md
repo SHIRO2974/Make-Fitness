@@ -127,7 +127,7 @@ npm run dev
 <img width="1280" alt="Image" src="https://github.com/user-attachments/assets/48fe2288-ea5f-4e98-a0e0-eab993d64a41" style= "width: 1000px;" />
 
 ## 회원 관리 (관리자)
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/ec1280ed-0d50-44bd-a041-08bc11e2d4e1" style= "width: 1000px;" />
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/df357b9f-e38d-440e-aee3-e15cdd0914d8" />
 
 ## 📌 멤버십 가입
 <img width="1280" alt="Image" src="https://github.com/user-attachments/assets/9700ce87-8213-45f6-b765-fc288f03fd8c" style= "width: 1000px;" />
