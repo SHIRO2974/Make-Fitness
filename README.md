@@ -52,7 +52,7 @@
 
 ---
 
-## ⚙️ 기술 스택
+### ⚙️ 기술 스택
 
 | 구분 | 기술 |
 |------|------|
@@ -138,13 +138,13 @@ npm run dev
 Swagger + GitHub Actions
 → API 문서 자동화 및 배포 자동화 CI/CD 구성
 
-## 👨‍💻 개발자 정보
+### 👨‍💻 개발자 정보
 
 | 이름               | 역할                     |
 |--------------------|--------------------------|
 | 이재현 (Lee Jaehyun) | 전체 설계 및 개발 (풀스택) |
 
-### 🛠 담당 범위
+## 🛠 담당 범위
 
 - DB 모델링 및 관계 설계  
 - Figma를 통한 UX 흐름 구성  
@@ -152,7 +152,7 @@ Swagger + GitHub Actions
 - React UI / 캘린더 컴포넌트 개발  
 - CI/CD 자동화 및 배포 구성
 
-🔗 링크
+### 🔗 관련링크
 🔗 배포 주소: https://makefitness.store/
 📄 노션 프로젝트 문서: https://lake-guanaco-5fe.notion.site/1af2ef25054380d5bdf8f184138b735e
 
