@@ -108,32 +108,32 @@ npm run dev
 <img width="1267" alt="Image" src="https://github.com/user-attachments/assets/55ec100d-11c4-436a-8e3b-cfcdb310fe09" style= "width: 1000px;" />
 
 📝 수업 등록 (트레이너)
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/a23968f6-4315-452f-98d8-52e621daf3da" />
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/a23968f6-4315-452f-98d8-52e621daf3da" style= "width: 1000px;" />
 
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/486230d8-d3bf-4c07-a5b4-f616f5d89ed1" />
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/486230d8-d3bf-4c07-a5b4-f616f5d89ed1" style= "width: 1000px;" />
 
 📅 수업 예약 (회원)
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/ceca91a6-9263-4933-a133-dc7b0e343517" />
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/ceca91a6-9263-4933-a133-dc7b0e343517" style= "width: 1000px;" />
 
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/f3ee190f-e2fb-46bb-8a2f-4d2893a22b07" />
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/f3ee190f-e2fb-46bb-8a2f-4d2893a22b07" style= "width: 1000px;" />
 
 👤 회원가입
-<img width="1273" alt="Image" src="https://github.com/user-attachments/assets/2e582e6d-5a1f-45e6-9592-cfd5e7f0a228" />
+<img width="1273" alt="Image" src="https://github.com/user-attachments/assets/2e582e6d-5a1f-45e6-9592-cfd5e7f0a228" style= "width: 1000px;" />
 
 💳 매출 관리
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/39b803b1-5074-40c9-b12b-50d9c9d95cfe" />
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/39b803b1-5074-40c9-b12b-50d9c9d95cfe" style= "width: 1000px;" />
 
 회원 관리 (트레이너)
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/48fe2288-ea5f-4e98-a0e0-eab993d64a41" />
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/48fe2288-ea5f-4e98-a0e0-eab993d64a41" style= "width: 1000px;" />
 
 회원 관리 (관리자)
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/ec1280ed-0d50-44bd-a041-08bc11e2d4e1" />
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/ec1280ed-0d50-44bd-a041-08bc11e2d4e1" style= "width: 1000px;" />
 
 📌 멤버십 가입
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/9700ce87-8213-45f6-b765-fc288f03fd8c" />
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/9700ce87-8213-45f6-b765-fc288f03fd8c" style= "width: 1000px;" />
 
 🗺️ 헬스장 위치
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/1091537f-13fc-44da-957d-fd5774afa6ff" />
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/1091537f-13fc-44da-957d-fd5774afa6ff" style= "width: 1000px;" />
 
 🧠 구현 포인트
 예약 제약 조건 설계
