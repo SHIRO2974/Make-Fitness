@@ -97,7 +97,7 @@ pw: wogus2987!
 📸 주요 화면 예시
 로그인 | 수업 캘린더 | 예약 내역 | 결제 페이지
 
-![image](https://github.com/user-attachments/assets/836a20a0-7e78-4b0c-915b-d06313a3a093)
+![로그인 화면](./screenshots/login.png)
 
 
 
