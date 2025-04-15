@@ -96,29 +96,29 @@ pw: wogus2987!
 
 ## 🖼️ 주요 화면 예시
 
-### 🔐 Login
+### 🔐 로그인 화면
 ![Login](./screenshots/login.png)
 
-### 📝 Class Registration
-![Register](./screenshots/ClassRegister_MN.png)
+### 📝 수업 등록 화면
+![Class Register](./screenshots/ClassRegister_MN.png)
 
-### 📅 Class Reservation
-![Reservation](./screenshots/ClassReservations_CU.png)
+### 📅 수업 예약 화면
+![Reservations](./screenshots/ClassReservations_CU.png)
 
-### 🔍 Reservation Lookup
-![Reservation Lookup](./screenshots/Reservation_CU.png)
+### 🔍 예약 조회
+![Reservation History](./screenshots/Reservation_CU.png)
 
-### 🧾 Sales Management
+### 👤 회원가입 / 회원 관리
+![Sign Up](./screenshots/SingnUp.png)
+![Member Manage](./screenshots/MemberManabement_AD.png)
+
+### 💳 매출 관리
 ![Sales](./screenshots/SalesManagement_AD.png)
 
-### 👥 Member Management
-![Member - Admin](./screenshots/MemberManagement_AD.png)
-![Member - Manager](./screenshots/MemberManagement_MN.png)
-
-### 📌 Membership Application
+### 📌 멤버십 가입
 ![Membership](./screenshots/Membership_AN.png)
 
-### 🗺️ Map
+### 🗺️ 지도
 ![Map](./screenshots/Map_AN.png)
 
 ### 🧑‍💻 Signup
