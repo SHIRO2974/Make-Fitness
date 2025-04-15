@@ -105,7 +105,7 @@ npm run dev
 
 ### 🖼 주요 화면
 🔐 로그인
-<img width="1267" alt="Image" src="https://github.com/user-attachments/assets/55ec100d-11c4-436a-8e3b-cfcdb310fe09" />
+<img width="1267" alt="Image" src="https://github.com/user-attachments/assets/55ec100d-11c4-436a-8e3b-cfcdb310fe09" style= "width: 1000px;" />
 
 📝 수업 등록 (트레이너)
 <img width="1280" alt="Image" src="https://github.com/user-attachments/assets/a23968f6-4315-452f-98d8-52e621daf3da" />
