@@ -109,7 +109,7 @@ pw: wogus2987!
 ![Reservation History](/screenshots/Reservation_CU.png)
 
 ### 👤 회원가입 / 회원 관리
-![Sign Up](./screenshots/SignUp.png)
+![Sign Up](/screenshots/SignUp.png)
 ![Member Management (Admin)](/screenshots/MemberManagement_AD.png)
 ![Member Management (Manager)](/screenshots/MemberManagement_MN.png)
 
@@ -122,28 +122,31 @@ pw: wogus2987!
 ### 🗺️ 지도
 ![Map](/screenshots/Map_AN.png)
 
-👨‍💻 담당 역할
-이름	 역할
-이재현	 풀스택 개발 전반
+## 👨‍💻 담당 역할
+
+| 이름   | 역할               |
+|--------|--------------------|
+| 이재현 | 풀스택 개발 전반   |
+
+**담당 업무:**  
 DB 설계 → 피그마 설계 → API 구현 → 프론트 UI 개발 → 배포 자동화
 
-🧠 구현 포인트
-예약 제약 조건 설계: 사용자가 구매한 이용권(프로모션)의 트레이너에게만 예약 가능
+---
 
-자동 출석 처리: 당일 수업 자동 출석 체크 및 출결 히스토리 반영
+## 🧠 구현 포인트
 
-예약 취소/삭제 처리: 수업 삭제 시 예약 자동 취소 및 횟수 복구 처리
+- **예약 제약 조건 설계**: 사용자가 구매한 이용권(프로모션)의 트레이너에게만 예약 가능
+- **자동 출석 처리**: 당일 수업 자동 출석 체크 및 출결 히스토리 반영
+- **예약 취소/삭제 처리**: 수업 삭제 시 예약 자동 취소 및 횟수 복구 처리
+- **실시간 캘린더 반영**: 예약/삭제 시 즉시 반영되는 프론트 캘린더 로직
+- **Swagger + GitHub Actions**: 문서화와 배포 자동화 통합 관리
 
-실시간 캘린더 반영: 예약/삭제 시 즉시 반영되는 프론트 캘린더 로직
+---
 
-Swagger 문서화 및 GitHub Actions로 CI/CD 자동화
+## 🔗 관련 링크
 
-🔗 관련 링크
-
-💻 배포 주소: (https://makefitness.store/)
-
-🧾 노션 주소: (https://lake-guanaco-5fe.notion.site/1af2ef25054380d5bdf8f184138b735e)
-
+- 💻 **배포 주소**: [https://makefitness.store](https://makefitness.store)
+- 🧾 **노션 문서**: [프로젝트 설계서](https://lake-guanaco-5fe.notion.site/1af2ef25054380d5bdf8f184138b735e)
 
 
 
