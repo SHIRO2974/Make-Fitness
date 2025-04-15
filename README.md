@@ -113,6 +113,9 @@ npm run dev
 <img width="1280" alt="Image" src="https://github.com/user-attachments/assets/486230d8-d3bf-4c07-a5b4-f616f5d89ed1" />
 
 📅 수업 예약 (회원)
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/ceca91a6-9263-4933-a133-dc7b0e343517" />
+
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/f3ee190f-e2fb-46bb-8a2f-4d2893a22b07" />
 
 🔍 예약 내역
 
