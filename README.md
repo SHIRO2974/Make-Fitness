@@ -108,6 +108,9 @@ npm run dev
 <img width="1267" alt="Image" src="https://github.com/user-attachments/assets/55ec100d-11c4-436a-8e3b-cfcdb310fe09" />
 
 📝 수업 등록 (트레이너)
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/a23968f6-4315-452f-98d8-52e621daf3da" />
+
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/486230d8-d3bf-4c07-a5b4-f616f5d89ed1" />
 
 📅 수업 예약 (회원)
 
