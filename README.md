@@ -96,35 +96,31 @@ pw: wogus2987!
 
 ## 🖼️ 주요 화면 예시
 
-### 🔐 Login
+### 🔐 로그인
 ![Login](./screenshots/login.png)
 
-### 📝 Class Registration
-![Register](./screenshots/ClassRegister_MN.png)
+### 📝 수업 등록
+![Class Register](./screenshots/ClassRegister_MN.png)
 
-### 📅 Class Reservation
-![Reservation](./screenshots/ClassReservations_CU.png)
+### 📅 수업 예약
+![Reservations](./screenshots/ClassReservations_CU.png)
 
-### 🔍 Reservation Lookup
-![Reservation Lookup](./screenshots/Reservation_CU.png)
+### 🔍 예약 조회
+![Reservation History](./screenshots/Reservation_CU.png)
 
-### 🧾 Sales Management
+### 👤 회원가입 / 회원 관리
+![Sign Up](./screenshots/SingnUp.png)
+![Member Management (Admin)](./screenshots/MemberManabement_AD.png)
+![Member Management (Manager)](./screenshots/MemberManabement_MN.png)
+
+### 💳 매출 관리
 ![Sales](./screenshots/SalesManagement_AD.png)
 
-### 👥 Member Management
-![Member - Admin](./screenshots/MemberManagement_AD.png)
-![Member - Manager](./screenshots/MemberManagement_MN.png)
-
-### 📌 Membership Application
+### 📌 멤버십 가입
 ![Membership](./screenshots/Membership_AN.png)
 
-### 🗺️ Map
+### 🗺️ 지도
 ![Map](./screenshots/Map_AN.png)
-
-### 🧑‍💻 Signup
-![Signup](./screenshots/SignUp.png)
-
-
 👨‍💻 담당 역할
 이름	 역할
 이재현	 풀스택 개발 전반
