@@ -110,7 +110,8 @@ pw: wogus2987!
 
 ### 👤 회원가입 / 회원 관리
 ![Sign Up](./screenshots/SignUp.png)
-![Member Manage](./screenshots/MemberManagement_AD.png)
+![Member Management (Admin)](./screenshots/MemberManagement_AD.png)
+![Member Management (Manager)](./screenshots/MemberManagement_MN.png)
 
 ### 💳 매출 관리
 ![Sales](./screenshots/SalesManagement_AD.png)
@@ -120,7 +121,6 @@ pw: wogus2987!
 
 ### 🗺️ 지도
 ![Map](./screenshots/Map_AN.png)
-
 
 👨‍💻 담당 역할
 이름	 역할
