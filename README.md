@@ -152,7 +152,7 @@ Swagger + GitHub Actions
 - React UI / 캘린더 컴포넌트 개발  
 - CI/CD 자동화 및 배포 구성
 
-###🔗 관련링크
+### 🔗 관련링크
 🔗 배포 주소: https://makefitness.store/
 📄 노션 프로젝트 문서: https://lake-guanaco-5fe.notion.site/1af2ef25054380d5bdf8f184138b735e
 
