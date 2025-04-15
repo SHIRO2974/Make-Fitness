@@ -117,17 +117,23 @@ npm run dev
 
 <img width="1280" alt="Image" src="https://github.com/user-attachments/assets/f3ee190f-e2fb-46bb-8a2f-4d2893a22b07" />
 
-🔍 예약 내역
-
-👤 회원가입 / 회원 관리
-
-
+👤 회원가입
+<img width="1273" alt="Image" src="https://github.com/user-attachments/assets/2e582e6d-5a1f-45e6-9592-cfd5e7f0a228" />
 
 💳 매출 관리
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/39b803b1-5074-40c9-b12b-50d9c9d95cfe" />
+
+회원 관리 (트레이너)
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/48fe2288-ea5f-4e98-a0e0-eab993d64a41" />
+
+회원 관리 (관리자)
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/ec1280ed-0d50-44bd-a041-08bc11e2d4e1" />
 
 📌 멤버십 가입
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/9700ce87-8213-45f6-b765-fc288f03fd8c" />
 
 🗺️ 헬스장 위치
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/1091537f-13fc-44da-957d-fd5774afa6ff" />
 
 🧠 구현 포인트
 예약 제약 조건 설계
