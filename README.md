@@ -97,20 +97,20 @@ pw: wogus2987!
 ## 🖼️ 주요 화면 예시
 
 ### 🔐 로그인 화면
-![로그인](./screenshots/로그인.png)
+![로그인](/screenshots/로그인.png)
 
 ### 📋 수업 등록 화면
-![수업등록](./screenshots/수업등록_MN.png)
+![수업등록](/screenshots/수업등록_MN.png)
 
 ### 📅 수업 예약 화면
-![예약](./screenshots/수업예약_CU.png)
+![예약](/screenshots/수업예약_CU.png)
 
 ### 🔍 수업 예약 조회
-![조회](./screenshots/수업예약조회_CU.png)
+![조회](/screenshots/수업예약조회_CU.png)
 
 ### 👤 회원가입 / 회원 관리
-![회원가입](./screenshots/회원가입.png)
-![회원관리](./screenshots/회원관리_MN.png)
+![회원가입](/screenshots/회원가입.png)
+![회원관리](/screenshots/회원관리_MN.png)
 
 
 
