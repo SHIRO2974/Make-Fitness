@@ -119,7 +119,7 @@ npm run dev
 ## 📅 수업 예약 (회원)
 <img width="1280" alt="Image" src="https://github.com/user-attachments/assets/ceca91a6-9263-4933-a133-dc7b0e343517" style= "width: 1000px;" />
 
-!mag[Ie](https://github.com/user-attachments/assets/61e930a7-019d-4fed-8fab-fee37a3a9056)/>
+![Image](https://github.com/user-attachments/assets/6463bbf9-8a39-4c8d-8fb9-2a7f9d7ec0c4)
 
 > 이용자는 날짜를 선택해 예약 가능한 수업을 확인하고, 정원 초과 여부 및 예약 상태를 실시간으로 확인 후 즉시 예약/취소할 수 있다.
 > 서버와 연동되어 세션 차감, 중복 방지, 정원 관리가 자동 처리된다.
