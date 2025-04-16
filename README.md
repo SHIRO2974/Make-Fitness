@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Make Fitness | 헬스 수업 예약 플랫폼
+![KakaoTalk_20250416_142452041](https://github.com/user-attachments/assets/a98ab71d-2410-4dcb-86bf-2480923b706b)# 🏋️‍♂️ Make Fitness | 헬스 수업 예약 플랫폼
 
 > 트레이너와 회원 간의 **수업 등록**, **예약**, **출결**, **결제** 과정을  
 > 효율적으로 연결하는 **웹 기반 통합 헬스 관리 시스템**
@@ -145,7 +145,8 @@ npm run dev
 > 관리자는 회원관리 페이지에서 회원가입한 모든 회원을 볼 수 있으며 회원구분에서 권한을 변경할 수 있도 페이지를 구현하였습니다.
 
 ## 📌 멤버십 가입
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/9700ce87-8213-45f6-b765-fc288f03fd8c" style= "width: 1000px;" />
+![KakaoTalk_20250416_142452041](https://github.com/user-attachments/assets/9166c266-f837-4be7-a613-e33aed3319bb)
+
 
 > 사용자가 선택한 멤버십 상품을 결제 후, 서버에 등록하여 세션/권한까지 자동 설정이 되도록 설계하였습니다.
 
