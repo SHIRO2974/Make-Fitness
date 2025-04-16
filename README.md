@@ -110,8 +110,7 @@ npm run dev
 > 로그인 기능
 
 ## 📝 수업 등록 (트레이너)
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/a23968f6-4315-452f-98d8-52e621daf3da" style= "width: 1000px;" />
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/486230d8-d3bf-4c07-a5b4-f616f5d89ed1" style= "width: 1000px;" />
+![Image](https://github.com/user-attachments/assets/85daedec-d894-4649-849c-edb6a39f632b)
 
 
 > 트레이너는 원하는 날짜의 시간대를 선택해 수업을 등록하거나, 이미 등록된 수업은 삭제 모드로 전환해 쉽게 제거 가능하다.  
