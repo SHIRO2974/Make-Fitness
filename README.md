@@ -234,8 +234,8 @@ Swagger + GitHub Actions
 - CI/CD 자동화 및 배포 구성
 
 ### 🔗 관련링크
-##🔗 배포 주소: https://makefitness.store/
-##📄 노션 프로젝트 문서: https://lake-guanaco-5fe.notion.site/1af2ef25054380d5bdf8f184138b735e
+## 🔗 배포 주소: https://makefitness.store/
+## 📄 노션 프로젝트 문서: https://lake-guanaco-5fe.notion.site/1af2ef25054380d5bdf8f184138b735e
 
 ### 💬 프로젝트 회고
 “끝까지 해보자는 마음 하나”
