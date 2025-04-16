@@ -191,7 +191,9 @@ Swagger + GitHub Actions
 | 관리자   | 매출 관리     | GET    | `/makefitness/sales`                         | 관리자 매출 페이지               |
 | 관리자   | 근무자 관리   | GET    | `/makefitness/worker`                        | 트레이너 관리                    |
 
-[👉 API 명세서 ] ![Image](https://github.com/user-attachments/assets/89843b3e-4d1c-4173-8ee7-8f9a5d5d63a9)
+[👉 API 명세서 ] 
+![Image](https://github.com/user-attachments/assets/89843b3e-4d1c-4173-8ee7-8f9a5d5d63a9)
+![Image](https://github.com/user-attachments/assets/858c7f76-0c0a-436a-b725-7560901b3662)
 
 ### 🗂️ ERD (Entity Relationship Diagram)
 ![Image](https://github.com/user-attachments/assets/5e376d5b-af3b-4c16-bb72-2ad11dd79b47)
