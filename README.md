@@ -116,31 +116,30 @@ npm run dev
 > 트레이너는 원하는 날짜의 시간대를 선택해 수업을 등록하거나, 이미 등록된 수업은 삭제 모드로 전환해 쉽게 제거 가능하다.  
 
 ## 📅 수업 예약 (회원)
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/ceca91a6-9263-4933-a133-dc7b0e343517" style= "width: 1000px;" />
 
-![Image](https://github.com/user-attachments/assets/6463bbf9-8a39-4c8d-8fb9-2a7f9d7ec0c4)
+![Image](https://github.com/user-attachments/assets/e6e06194-663a-4374-84c4-1e273159844d)
 
 > 이용자는 날짜를 선택해 예약 가능한 수업을 확인하고, 정원 초과 여부 및 예약 상태를 실시간으로 확인 후 즉시 예약/취소할 수 있다.
 > 서버와 연동되어 세션 차감, 중복 방지, 정원 관리가 자동 처리된다.
 
 ## 👤 회원가입
-<img width="1273" alt="Image" src="https://github.com/user-attachments/assets/2e582e6d-5a1f-45e6-9592-cfd5e7f0a228" style= "width: 1000px;" />
+![Image](https://github.com/user-attachments/assets/dce87668-062c-4164-a141-5d979483e5cd)
 
 > 회원가입 기능
  
 ## 💳 매출 관리
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/39b803b1-5074-40c9-b12b-50d9c9d95cfe" style= "width: 1000px;" />
+![Image](https://github.com/user-attachments/assets/03214c51-4f9a-4537-adb3-1b9b7ae527db)
 
 > 관리자는 매년 및 매달 매출을 확인하며 어떤 프로모션이 수요가 많은지 한 눈에 확인해 그에 맞는 마케팅 전략을 짤 수 있습니다.
 
 ## 회원 관리 (트레이너)
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/48fe2288-ea5f-4e98-a0e0-eab993d64a41" style= "width: 1000px;" />
+![Image](https://github.com/user-attachments/assets/8bbc8174-e1c4-46eb-be2b-c5cfb3454acc)
 
 > 트레이너는 회원관리 페이지에서 나의 수업을 듣고 있는 모든 회원을 볼 수 있으며 남은 횟수와 종료기간을 확인하여 추가적인 마케팅을 할 수 있도록
 > 설계하였습니다.
 
 ## 회원 관리 (관리자)
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/df357b9f-e38d-440e-aee3-e15cdd0914d8" />
+![Image](https://github.com/user-attachments/assets/6b9453f5-09c5-4d7c-91cd-422e860a5910)
 
 > 관리자는 회원관리 페이지에서 회원가입한 모든 회원을 볼 수 있으며 회원구분에서 권한을 변경할 수 있도 페이지를 구현하였습니다.
 
@@ -151,7 +150,7 @@ npm run dev
 > 사용자가 선택한 멤버십 상품을 결제 후, 서버에 등록하여 세션/권한까지 자동 설정이 되도록 설계하였습니다.
 
 ## 🗺️ 헬스장 위치
-<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/1091537f-13fc-44da-957d-fd5774afa6ff" style= "width: 1000px;" />
+![Image](https://github.com/user-attachments/assets/7c6d6cdb-4e26-4a9e-9152-435459517a17)
 
 > 카카오지도를 이용하여 위치정보를 표시해 이용자들이 알아보기쉽게 구현하였습니다.
 
