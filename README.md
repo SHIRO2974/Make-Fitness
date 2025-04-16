@@ -105,7 +105,7 @@ npm run dev
 
 ### 🖼 주요 화면
 ## 🔐 로그인
-<img width="1267" alt="Image" src="https://github.com/user-attachments/assets/55ec100d-11c4-436a-8e3b-cfcdb310fe09" style= "width: 1000px;" />
+![Image](https://github.com/user-attachments/assets/70475d42-53c6-4f17-bc34-22bf1fa6ccb4)
 
 > 로그인 기능
 
