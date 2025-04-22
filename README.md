@@ -73,7 +73,6 @@ plaintext
      ↑                             ↓
 [PortOne SDK]             [GitHub Actions + EC2]
 
-## 📂 프로젝트 구조
 make-fitness/
  ┣ back/
  ┃ ┣ controller/
@@ -88,6 +87,7 @@ make-fitness/
    ┣ apis/
    ┣ router/
    ┗ context/
+
 🚀 실행 방법
 
 프론트엔드 실행
