@@ -89,8 +89,6 @@ make-fitness/
    ┣ router/
    ┗ context/
 🚀 실행 방법
-백엔드 실행
-./gradlew bootRun
 
 프론트엔드 실행
 npm run dev
